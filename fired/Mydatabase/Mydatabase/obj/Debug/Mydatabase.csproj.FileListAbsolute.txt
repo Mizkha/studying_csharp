@@ -1,0 +1,17 @@
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\bin\Debug\Mydatabase.exe.config
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\bin\Debug\Mydatabase.exe
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\bin\Debug\Mydatabase.pdb
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\bin\Debug\MySql.Data.dll
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\bin\Debug\MySql.Data.xml
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.Form1.resources
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.Properties.Resources.resources
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.exe
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.pdb
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.Form2.resources
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\bin\Debug\Mydatabase.exe.manifest
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\bin\Debug\Mydatabase.application
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.exe.manifest
+C:\Users\Михаил\Desktop\fired\Mydatabase\Mydatabase\obj\Debug\Mydatabase.application
